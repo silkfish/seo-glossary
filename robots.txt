@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seo-glossary.pages.dev/sitemap.xml
